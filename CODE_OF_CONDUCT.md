@@ -1,6 +1,6 @@
 # SendGrid Community Code of Conduct
 
-The SendGrid open source community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines, which help steer our interactions and strive to maintain a positive, thriving and growing community.
+The SendGrid open source community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences successes and continued growth. When you're working with members of the community, we encourage you to follow these guidelines, which help steer our interactions and strive to maintain a positive, successful and growing community.
 
 ### Be Open
 Members of the community are open to collaboration, whether it's on pull requests, code reviews, approvals, issues or otherwise. We're receptive to constructive comments and criticism, as the experiences and skill sets of all members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate, and everyone can make a difference.
@@ -14,7 +14,7 @@ Members of the community are respectful. We're respectful of others, their posit
 ## Additional Guidance
 
 ### Disclose Potential Conflicts of Interest
-Community discussions often involve interested parties. We expect participants to be aware when they are conflicted due to employment or other projects they are involved in and disclose those interests to other project members. When in doubt, over-disclose. Perceived conflicts of interest are essential to address so that the community’s decisions are credible even when unpopular, difficult or favorable to the interests of one group over another.
+Community discussions often involve interested parties. We expect participants to be aware when they are conflicted due to employment or other projects they are involved in and disclose those interests to other project members. When in doubt, over-disclose. Perceived conflicts of interest are important to address so that the community’s decisions are credible even when unpopular, difficult or favorable to the interests of one group over another.
 
 ### Interpretation
 This Code is not exhaustive or complete. It is not a rulebook; it serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter.  When in doubt, try to abide by [SendGrid’s cultural values](https://sendgrid.com/blog/employee-engagement-the-4h-way) defined by our “4H’s”: Happy, Hungry, Humble and Honest.
