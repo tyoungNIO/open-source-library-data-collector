@@ -9,6 +9,7 @@ Hello! Thank you for choosing to help contribute to one of the SendGrid open sou
 - [Testing](#testing)
 - [Style Guidelines & Naming Conventions](#style-guidelines-and-naming-conventions)
 - [Creating a Pull Request](#creating-a-pull-request)
+- [Code Reviews](#code-reviews)
 
 <a name="roadmap"></a>
 We use [Milestones](https://github.com/sendgrid/open-source-library-data-collector/milestones) to help define current roadmaps, please feel free to grab an issue from the current milestone. Please indicate that you have begun work on it to avoid collisions. Once a PR is made, community review, comments, suggestions, and additional PRs are welcomed and encouraged.
@@ -165,12 +166,11 @@ The above local "Initial setup" is complete
 Add eval "$(pyenv init -)" to your .profile after installing tox, you only need to do this once.
 
 ```bash
-pyenv install 3.2.6
 pyenv install 3.3.6
 pyenv install 3.4.3
 pyenv install 3.5.0
 python setup.py install
-pyenv local 3.5.0 3.4.3 3.3.6 3.2.6 2.7.8 2.6.9
+pyenv local 3.5.0 3.4.3 3.3.6 2.7.8 2.6.9
 pyenv rehash
 ```
 
@@ -190,7 +190,7 @@ Generally, we follow the style guidelines as suggested by the official language.
 Please run your code through:
 
 - [pyflakes](https://pypi.python.org/pypi/pyflakes)
-- [pep8](https://pypi.python.org/pypi/pep8)
+- [pycodestyle](https://pypi.python.org/pypi/pycodestyle)
 
 ## Creating a Pull Request<a name="creating-a-pull-request"></a>
 
@@ -244,5 +244,8 @@ Please run your code through:
 
 7. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/)
     with a clear title and description against the `master` branch. All tests must be passing before we will review the PR.
+    
+## Code Reviews<a name="code-reviews"></a>
+If you can, please look at open PRs and review them. Give feedback and help us merge these PRs much faster! If you don't know how, GitHub has some <a href="https://help.github.com/articles/about-pull-request-reviews/">great information on how to review a Pull Request.</a>
 
 If you have any additional questions, please feel free to [email](mailto:dx@sendgrid.com) us or create an issue in this repo.
